@@ -3,7 +3,8 @@ package main
 import (
 	"log/slog"
 	"os"
-	"sso/internal/config"
+
+	"github.com/posolwar/sso/internal/config"
 )
 
 const (

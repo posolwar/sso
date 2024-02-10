@@ -1,4 +1,4 @@
-module sso
+module github.com/posolwar/sso
 
 go 1.20
 
